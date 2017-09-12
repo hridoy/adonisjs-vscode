@@ -1,7 +1,7 @@
 {
-    "name": "adonis-snippets",
-    "displayName": "adonis-snippets",
-    "description": "Adnois JS snippets for vscode",
+    "name": "adonisjs-snippets",
+    "displayName": "Adonis JS",
+    "description": "Adnois js snippets for vscode",
     "version": "1.0.0",
     "publisher": "Hridoy",
     "icon": "img/adonis.png",
