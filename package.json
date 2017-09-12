@@ -1,0 +1,186 @@
+{
+    "name": "adonis-snippets",
+    "displayName": "adonis-snippets",
+    "description": "Adnois JS snippets for vscode",
+    "version": "1.0.0",
+    "publisher": "Hridoy",
+    "icon": "img/adonis.png",
+    "galleryBanner": {
+		"color": "#1E81C1",
+		"theme": "light"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hridoy/adonisjs-vscode"
+    },
+    "keywords": [
+        "Adonis",
+        "Adonis js",
+        "adonisjs",
+        "Adonis js snippets",
+        "Adonisjs snippets",
+    ],
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "'javascript'",
+                "path": "./snippets/ace.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/controller.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/encryption.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/event.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/hash.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/helpers.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/internationalization.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/lucid-hooks.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/lucid-orm-operations.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/lucid-orm.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/lucid-relation.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/lucid.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/mail.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/nunjucks-filters.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/nunjucks-form.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/nunjucks.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/query.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/redis.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/request-ally.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/request-auth.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/request-cookie.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/request-session.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/request.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/response.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/response-descriptive.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/response-redirect.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/response.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/route-group.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/route-option.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/route.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/schema-table-chain.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/schema-table.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/schema.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/seeder-fake.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/seeder.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/settings.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/validation.json"
+            },
+            {
+                "language": "'javascript'",
+                "path": "./snippets/view.json"
+            }
+        ]
+    }
+}
